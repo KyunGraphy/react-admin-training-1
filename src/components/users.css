@@ -1,0 +1,26 @@
+.users {
+    width: 100%;
+    padding: 0 1em;
+}
+
+.roomFeeRow {
+    margin: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 16em;
+}
+
+.roomFeeRow > label {
+    font-weight: bold;
+    color: white;
+}
+
+.roomFeeRow > div {
+    background: white;
+    text-align: center;
+    width: 40%;
+    height: 24px;
+    padding: 0.25em;
+    border-radius: 4px;
+}
